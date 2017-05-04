@@ -1,0 +1,12 @@
+﻿- Tên đề tài: Phần mềm quản lý giảng đường
+
+- Lý do chọn đề tài: giúp người dùng dể dàng nắm được thông tin các giảng đường
+đang được sử dụng trong ngày hay sắp tới mà không thông qua giấy tờ phức tạp.
+
+
+- Chức năng: 
+	+ tra cứu
+	+ quản lý thông tin giảng đường
+	+ thêm, sửa, xóa đăng ký sử dụng giảng đường
+
+- Ngôn ngữ: php
