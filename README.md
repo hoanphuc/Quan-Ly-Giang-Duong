@@ -39,4 +39,4 @@ Kết nối php tới cơ sở dữ liệu IBM_DB2: [XEM TẠI ĐÂY](https://ww
 [XEM TẠI ĐÂY](https://www.youtube.com/watch?v=yXT1ElMEkW8)
 
 # Tài Liệu Cho Người Dùng Cuối
-[XEM TẠI ĐÂY](https://docs.google.com/document/d/1BXxxcKX2ZDGowfYTqx8ogyfWo18CmavfoQXeS_EXql8/edit)
+[XEM TẠI ĐÂY](https://docs.google.com/document/d/1BXxxcKX2ZDGowfYTqx8ogyfWo18CmavfoQXeS_EXql8/edit?usp=sharing)
